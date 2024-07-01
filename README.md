@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **fsyedrx2002@gmail.com**
 
-- ⚡ Fun fact : **It's not who I am underneath, but what I do that defines me.**
+- ⚡ Fun fact : **No one cared who I was, until I put on the mask.**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
