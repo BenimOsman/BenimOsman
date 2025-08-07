@@ -2,10 +2,7 @@
 <h2 align="center">Hi 👋, I'm Syed Faisal</h2>
 <h3 align="center">"Turning Lines of Code into Creations That Matter."</h3>
 
-
-- 🔭 I’m currently studying B.Tech **on Computer Science & Engineering**
-
-- 🌱 I’m currently working on and learning **implementation of DSA using Python.**
+- 🌱 I’m currently working at **International Business Machines (IBM) as an Application Developer - Microsoft .NET Stack**
 
 - 📫 You can reach me at **fsyedrx2002@gmail.com**
 
